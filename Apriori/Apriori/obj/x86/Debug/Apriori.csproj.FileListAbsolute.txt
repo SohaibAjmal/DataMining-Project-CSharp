@@ -1,0 +1,23 @@
+C:\Users\Sohaib\AppData\Local\Temporary Projects\Apriori\bin\Debug\Apriori.exe
+C:\Users\Sohaib\AppData\Local\Temporary Projects\Apriori\bin\Debug\Apriori.pdb
+C:\Users\Sohaib\AppData\Local\Temporary Projects\Apriori\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Sohaib\AppData\Local\Temporary Projects\Apriori\obj\x86\Debug\Apriori.exe
+C:\Users\Sohaib\AppData\Local\Temporary Projects\Apriori\obj\x86\Debug\Apriori.pdb
+D:\C# Projects\Apriori\Apriori\obj\x86\Debug\Apriori.exe
+D:\C# Projects\Apriori\Apriori\obj\x86\Debug\Apriori.pdb
+D:\C# Projects\Apriori\Apriori\bin\Debug\Apriori.exe
+D:\C# Projects\Apriori\Apriori\bin\Debug\Apriori.pdb
+D:\C# Projects\Apriori\Apriori\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\3rd Semester\Intro to Data Mining\Assignments\Assignmnet 3 - Mini Project\Final COdes\Apriori\Apriori\obj\x86\Debug\Apriori.exe
+D:\3rd Semester\Intro to Data Mining\Assignments\Assignmnet 3 - Mini Project\Final COdes\Apriori\Apriori\obj\x86\Debug\Apriori.pdb
+D:\3rd Semester\Intro to Data Mining\Assignments\Assignmnet 3 - Mini Project\Final Codes\Apriori\Apriori\bin\Debug\Apriori.exe
+D:\3rd Semester\Intro to Data Mining\Assignments\Assignmnet 3 - Mini Project\Final Codes\Apriori\Apriori\bin\Debug\Apriori.pdb
+D:\3rd Semester\Intro to Data Mining\Assignments\Assignmnet 3 - Mini Project\Final Codes\Apriori\Apriori\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Improved Data Mining Assignment\Apriori\Apriori\obj\x86\Debug\Apriori.exe
+D:\Improved Data Mining Assignment\Apriori\Apriori\obj\x86\Debug\Apriori.pdb
+D:\Improved Data Mining Assignment\Apriori\Apriori\bin\Debug\Apriori.exe
+D:\Improved Data Mining Assignment\Apriori\Apriori\bin\Debug\Apriori.pdb
+D:\GIT Repo\Apriori\Apriori\obj\x86\Debug\Apriori.exe
+D:\GIT Repo\Apriori\Apriori\obj\x86\Debug\Apriori.pdb
+D:\GIT Repo\Apriori\Apriori\bin\Debug\Apriori.exe
+D:\GIT Repo\Apriori\Apriori\bin\Debug\Apriori.pdb

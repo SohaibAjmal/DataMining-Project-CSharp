@@ -1,0 +1,10 @@
+D:\C# Projects\FPAlgo\FPAlgo\bin\Release\FPAlgo.exe
+D:\C# Projects\FPAlgo\FPAlgo\bin\Release\FPAlgo.pdb
+D:\C# Projects\FPAlgo\FPAlgo\obj\x86\Release\ResolveAssemblyReference.cache
+D:\C# Projects\FPAlgo\FPAlgo\obj\x86\Release\FPAlgo.exe
+D:\C# Projects\FPAlgo\FPAlgo\obj\x86\Release\FPAlgo.pdb
+D:\Improved Data Mining Assignment\Assignmnet 3 - Mini Project\Final Codes\FPAlgo\FPAlgo\bin\Release\FPAlgo.exe
+D:\Improved Data Mining Assignment\Assignmnet 3 - Mini Project\Final Codes\FPAlgo\FPAlgo\bin\Release\FPAlgo.pdb
+D:\Improved Data Mining Assignment\Assignmnet 3 - Mini Project\Final Codes\FPAlgo\FPAlgo\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Improved Data Mining Assignment\Assignmnet 3 - Mini Project\Final Codes\FPAlgo\FPAlgo\obj\x86\Release\FPAlgo.exe
+D:\Improved Data Mining Assignment\Assignmnet 3 - Mini Project\Final Codes\FPAlgo\FPAlgo\obj\x86\Release\FPAlgo.pdb
